@@ -1,0 +1,18 @@
+Beam
+====
+
+Third-party names
+-----------------
+This software interoperates with Apple TV / AirPlay-compatible devices and
+runs on Android. Those product names and related marks belong to their
+respective owners. Beam does not claim any sponsorship, endorsement, or
+official status.
+
+No Apple, Google, or Disney (etc.) logos or trademarked glyphs are shipped
+as Beam branding. The Beam icon is original artwork for this project.
+
+Dependencies
+------------
+Beam embeds or links to open-source components under their own licenses,
+notably pyatv and the AndroidX / Material libraries. See those projects for
+terms.
